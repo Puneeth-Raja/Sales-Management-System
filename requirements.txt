@@ -1,0 +1,5 @@
+#Packages needed
+streamlit
+pandas
+plotly
+mysql-connector-python
