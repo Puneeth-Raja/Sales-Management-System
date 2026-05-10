@@ -97,7 +97,7 @@ The database structure supports branch-level sales tracking and financial report
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Puneeth-Raja/Sales-Management-System.git
 cd Sales-Intelligence-Hub
 ```
 
