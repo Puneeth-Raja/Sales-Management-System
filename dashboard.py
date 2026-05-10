@@ -294,10 +294,10 @@ def dashboard():
                     step=100.0
                 )
 
-                st.markdown('### Information')
-                st.write('• Pending amount auto-calculates')
-                st.write('• Status updates automatically')
-                st.write('• Triggers handle payment tracking')
+                # st.markdown('### Information')
+                # st.write('• Pending amount auto-calculates')
+                # st.write('• Status updates automatically')
+                # st.write('• Triggers handle payment tracking')
 
             st.divider()
 
